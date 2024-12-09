@@ -21,4 +21,6 @@ Message Cleanup: Delete bulk or individual messages to keep channels clean.
 Server Settings: Configure welcome messages, custom prefixes, and more.
 Custom Commands: Add personalized commands to enhance interaction.
 
+Find the commands file to get to know more about the commands!
+
 Currently working to bring more features and updates!
